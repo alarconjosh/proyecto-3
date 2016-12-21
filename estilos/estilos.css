@@ -1,0 +1,133 @@
+body {
+	background: blanchedalmond;
+}
+
+.color-rosa {
+	color: pink;
+}
+
+
+article h3.título{
+	color: green;
+	}
+
+
+.título{
+	font-size: 90px;
+	font-style: italic;
+	font-weight: bold;
+	color: rgb(109, 26, 26);
+	text-transform: capitalize;
+	text-decoration: underline;
+	font-family: 'Petit Formal Script', cursive;
+}
+
+.cuadrado{
+	height:200px;
+	width: 200px;
+	background-color: black;
+	border-top: 4px solid red;
+	border-left: 10px dotted yellow;
+	border-bottom: 3px double pink;
+	border-right: 10px dotted yellow;
+	}
+
+
+.boton{
+	background: red;
+	color: white;
+	text-decoration: none;
+	font-size: 50px;
+
+}
+
+.boton:hover{
+	background: blue;
+	color: yellow;
+
+}
+
+.elementos li{
+	color: red;
+
+}
+
+
+.elementos li:first-child{
+	color: blue;
+
+	}
+
+.elementos li:last-child{
+	color: white;
+
+	}
+
+.elementos li:nth-child(odd){
+	color: darkblue;
+	background: rgba(71, 64, 54, 0.2);
+
+	}
+
+.circulo{
+	height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
+    border: 4px double darksalmon;
+
+}
+
+
+.circulo1{
+	background: red;
+	}
+
+.circulo2{
+	background: green;
+	}
+
+.circulo3{
+	background: blue;
+	}
+
+.parrafo{
+    line-height: 1.5;
+    letter-spacing: 5px;
+}
+
+
+
+.icono{
+	font-size: 80px;
+
+    
+}
+.ion-social-facebook{	
+	color: #3b5998;
+    
+}
+
+.ion-social-twitter{
+	color: #55acee;
+    
+}
+
+.ion-social-instagram{
+	color: #e95950;
+    
+}
+
+.ion-social-linkedin{
+	color: #007bb5;
+    
+}
+
+.ul{
+	list-style: none;
+    
+}
+
+
+
+
